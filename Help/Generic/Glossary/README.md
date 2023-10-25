@@ -1,6 +1,7 @@
 # Glossary
 
 ## Organization
+Your company
 
 ## Business domain
 
