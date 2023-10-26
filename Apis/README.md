@@ -4,4 +4,4 @@
 - [Tutorials](Tutorials/README.md)
 - [FAQ](../General/FAQ/README.md)
 - [Glossary](../General/Glossary/README.md)
-- [How to contribute to the docs](../HowToContribute.md)
+- [How to contribute to the docs](../General/HowToContribute.md/README.md)
