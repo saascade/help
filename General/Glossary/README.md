@@ -9,3 +9,4 @@
 ## Environment
 
 
+- [How to contribute to the docs](../HowToContribute/README.md)
