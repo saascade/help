@@ -1,2 +1,3 @@
-# Tutorials
-- [How to contribute to the docs](../../General/HowToContribute/README.md)
+# Tutorials [^1]
+
+[^1]: [How to contribute to the docs](../../General/HowToContribute/README.md)

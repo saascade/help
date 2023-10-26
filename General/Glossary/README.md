@@ -1,4 +1,4 @@
-# Glossary[^1]
+# Glossary [^1]
 
 ## Organization 
 
