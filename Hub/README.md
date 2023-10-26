@@ -5,4 +5,4 @@
 - [External resources](ExternalResources/README.md)
 - [FAQ](../General/FAQ/README.md)
 - [Glossary](../General/Glossary/README.md)
-- [How to contribute to the docs](../General/HowToContribute.md/README.md)
+- [How to contribute to the docs](../General/HowToContribute/README.md)
