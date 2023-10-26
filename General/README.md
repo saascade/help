@@ -1,4 +1,4 @@
-# Generic help
+# General help
 
 - [Getting started](GettingStarted/README.md)
 - [FAQ](FAQ/README.md)
