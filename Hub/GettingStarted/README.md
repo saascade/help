@@ -1,4 +1,4 @@
 # Getting started
-
-- [Glossary](../Glossary/README.md)
+- [Faq](../../General/FAQ/README.md)
+- [Glossary](../../General/Glossary/README.md)
 - [How to contribute to the docs](../../HowToContribute.md)
