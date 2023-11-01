@@ -1,7 +1,7 @@
 # Glossary [^1]
 
 ## Organization 
-Your company name
+Your company name.
 
 ## Business domain
 
