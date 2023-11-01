@@ -1,9 +1,7 @@
 # Glossary [^1]
 
-## Organization 
-Your company name.
-
 ## Business domain
+This the primary industry that your company/organization operates in.
 
 ## Project / Bounded Context
 
