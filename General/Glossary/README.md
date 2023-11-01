@@ -13,4 +13,4 @@ Is an amendment or addition you want to make in a document.
 
 ---
 - [Edit this page](README.md)
-- [How to contribute to the docs](HowToContribute/README.md)
+- [How to contribute to the docs](../HowToContribute/README.md)
