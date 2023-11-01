@@ -1,4 +1,5 @@
 # Glossary [^1]
+[Edit this page](README.md)
 
 ## Business domain
 This the primary industry that your company/organization operates in.
@@ -10,6 +11,4 @@ This the primary industry that your company/organization operates in.
 ## Pull request
 Is an amendment or addition you want to make in a document.
 
-[^1]: [Edit this page](README.md) 
-
-
+[^1]: [Edit this page](README.md)
