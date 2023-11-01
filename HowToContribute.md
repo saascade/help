@@ -1,6 +1,10 @@
-# How to contribute to the docs [^1]
+# How to contribute to the docs
 - [Details](General/HowToContribute/README.md)
 
 [The syntax we use](https://www.markdownguide.org/cheat-sheet)
+ 
+---
+[Edit this page](HowToContribute.md)
 
-[^1]: [How to contribute to the docs](General/HowToContribute/README.md)
+[How to contribute to the docs](General/HowToContribute/README.md)
+
