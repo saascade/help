@@ -1,7 +1,6 @@
 # How to contribute to the docs
 - [Details](General/HowToContribute/README.md)
-
-[The syntax we use](https://www.markdownguide.org/cheat-sheet)
+- [The syntax we use](https://www.markdownguide.org/cheat-sheet)
  
 ---
 [Edit this page](HowToContribute.md)
