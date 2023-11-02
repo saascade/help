@@ -1,6 +1,4 @@
 # General help
-[Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/General/README.md)
-
 
 - [Getting started](GettingStarted//README.md)
 - [FAQ](FAQ/README.md)
