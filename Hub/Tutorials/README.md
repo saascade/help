@@ -1,3 +1,6 @@
-# Tutorials [^1]
+# Tutorials
 
-[^1]: [How to contribute to the docs](../../General/HowToContribute/README.md)
+---
+[Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/Hub/Tutorials/README.md)
+
+[How to contribute to the docs](../../General/HowToContribute/README.md)
