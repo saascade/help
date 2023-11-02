@@ -8,6 +8,8 @@
   <source src="https://github.com/saascade/videos/raw/main/platform/hub/gettingStarted/gettingStarted.mp4" type="video/mp4">
 </video>
 
+[![](Video)]([https://youtu.be/{video_id}](https://github.com/saascade/videos/raw/main/platform/hub/gettingStarted/gettingStarted.mp4))
+
 ---
 [Edit this page](README.md)
 
