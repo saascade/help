@@ -1,5 +1,4 @@
 # Glossary
-[Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/General/Glossary/README.md)
 
 ## Business domain
 This the primary industry that your company/organization operates in.
