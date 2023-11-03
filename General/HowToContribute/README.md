@@ -1,6 +1,7 @@
 # How to contribute to the docs
 
 ## We're not perfect
+Writing great help/documentation isn't our specialization (writing code is), so we have come to accept that we need your help!
 As such we have decided to follow an open Docs-as-Code approach to creating our help documentation, meaning that anybody can add or fix content.
 
 If everything works out well then we should hopefully end up with nice concise help topics that are actually helpful to our users (you), instead of just being reams of fluff (that we would be guessing would be useful).
