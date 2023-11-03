@@ -20,11 +20,15 @@ We use [Markdown](https://www.markdownguide.org) as the syntax for our docs in o
 
 ## Submitting a change
 The content of our help docs is stored on Github.com and we use the Git protocol to make changes.
+
 In Git a change request is called a Pull Request for some reason (don't ask us why - tech people aren't good at naming things I guess).
+
 So to make a change you'll need to submit a Pull request, either via the Github website or via any Git enabled tools (like VS Code).
+
 We'll then review the change, and if everything is good we'll make those changes permanent - as simple as that.
 
 If you're making small changes, like fixing spelling or grammar, then it's probably easiest using the Github website to do so.
+
 However, if you'll like to make bigger changes then we'd suggest working locally on your PC/Mac using tools like VS Code to make and preview the changes.
 
 You can submit a Pull Request via https://github.com/saascade/platform.saascade.com/blob/main/HowToContribute.md
