@@ -1,9 +1,2 @@
 # How to contribute to the docs
-- [Details](General/HowToContribute/README.md)
-- [The syntax we use](https://www.markdownguide.org/cheat-sheet)
- 
----
-[Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/HowToContribute.md)
-
-[How to contribute to the docs](General/HowToContribute/README.md)
-
+- [The details](General/HowToContribute/README.md)
