@@ -7,7 +7,7 @@ You focus on the business logic and we'll take care of all the hard stuff!
 - [C# Full Course for Beginners (by freeCodeCamp.org)](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 - [Introduction to C# (Microsoft)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
 - [Microsoft documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
+- [Learn C#](https://dotnet.microsoft.com/en-us/learn/csharp)
 
 ## Slightly more complicated stuff
 
