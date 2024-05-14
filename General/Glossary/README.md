@@ -20,7 +20,7 @@ Software development is difficult enough without the business and engineering us
 This is where Domain Driven Design (DDD) comes in, which was made popular by Eric Evans in his 2003 book Domain Driven Design: Tackling Complexity in the Heart of Software.
 
 
-The SaaScade platform takes things further by providing tools to easily do the modelling, generate the code and manage the software systems - effectively eliminating or reducing a lot of the complexity of trying to do this manually.
+The SaaScade platform takes things further by providing tools to easily do the modelling, generate the code and manage the resulting software systems - effectively eliminating or reducing a lot of the risk and complexity of trying to do this manually.
 
 
 
