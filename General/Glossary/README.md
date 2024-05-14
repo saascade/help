@@ -33,6 +33,9 @@ This the primary industry that your company/organization operates in.
 
 [YouTube](https://www.youtube.com/watch?v=NvBsEnDgA4o)
 
+A part of the software where particualr terms, rules and definitions apply consistantly.
+
+
 ## Aggregate
 An Aggregate is by far the hardest thing to explain in Domain-Driven Design (DDD), with the following statement being the original/official definition:
 "An Aggregate is a cluster of associated objects that we treat as a unit for the purpose of data changes. 
