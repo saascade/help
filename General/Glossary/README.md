@@ -5,7 +5,7 @@ This the primary industry that your company/organization operates in.
 
 
 ## Project / Bounded Context
-...
+[Bounded context - Martin Fowler](https://martinfowler.com/bliki/BoundedContext.html)
 
 
 ## Aggregate
