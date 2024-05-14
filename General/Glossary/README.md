@@ -13,7 +13,7 @@ This is because it allows the structure and lanaguage in the code to match what 
 
 
 
-When you are trying to build complex software it is important that everyone is on the same page. 
+When you are trying to build complex software it is extremely important that everyone is on the same page!
 The software itself should represent the business and it should be clear from the code how the business functions. 
 Software development is difficult enough without the business and engineering using different names for the same thing.
 
