@@ -9,7 +9,7 @@
 
 
 To oversimplify things, Domain-Driven Design is the recommended approach for creating Enterprise-grade software applications.
-This is because it allows the structure and lanaguage in the code to match what is actually used in the business - making it much easier to reason about complex (or even simple) software systems. It's about creating a language that is shared between domain/business experts and technical experts. We then use that shared language to model the business in a user-friendly, but technically complete way.
+This is because it allows the structure and lanaguage in the code to match what is actually used in the business - making it much easier to reason about complex (or even simple) software systems. It's about creating a language that is shared between domain/business experts and technical experts. We then use that shared language to model the business in a user-friendly, but technically complete way - reducing a lot of the risk, while also speeding up the software development.
 
 
 When you are trying to build complex software it is important that everyone is on the same page. 
