@@ -2,6 +2,7 @@
 
 ## Domain-Driven Design (DDD)
 [Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+
 [YouTube](https://www.youtube.com/watch?v=4rhzdZIDX_k)
 
 When you are trying to build complex software it is important that everyone is on the same page. 
