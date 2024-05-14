@@ -51,7 +51,11 @@ To keep things simple you can kind of think of it in the same way as an Entity, 
 So for example if you we're modelling a Bank, some of the Aggregate roots would be things like 'Customer' or 'Bank Account', with each instance of those having it's own identity (Aggregate ID) and data. In this case a Customer (as in a unique person) would perhaps have an Address, but we can decide to model the Address as just a value object / property of a Customer instead of a completely seperate Aggregate, because it doesn't really have any reason to change outside of the context of a specific customer and should probably be kept consistant with other changes to that specific customer.
 
 ## Environment
-...
+A software development environment (SDE) is the collection of hardware and software tools a system developer uses to build software systems.
+
+When you are developing software, you probably don’t want your users to see every messy part of your application creation process. In order to make sure you control what people see and when they have access to it, development teams use environments to create “stages” of the app which they consider good for releasing.
+
+Each environment has its own unique purpose. There are different standards of environments which are used in the industry, although almost every process starts at the ‘development’ (or shortened to just 'dev') stage and ends with ‘production’. Different organisations all have their own purposes and policies which dictate when and how each environment is used.
 
 ## Commands / Action & Events
 [Events vs Commands: What's the difference? - video](https://www.youtube.com/watch?v=vS7sCJ1uezY)
