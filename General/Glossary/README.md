@@ -1,5 +1,17 @@
 # Glossary
 
+## Domain-Driven Design (DDD)
+[Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+[YouTube](https://www.youtube.com/watch?v=4rhzdZIDX_k)
+
+When you are trying to build complex software it is important that everyone is on the same page. 
+
+The software itself should represent the business and it should be clear from the code how the business functions. 
+Software development is difficult enough without the business and engineering using different names for the same thing.
+
+This is where Domain Driven Design (DDD) comes in, which was made popular by Eric Evans in his 2003 book Domain Driven Design: Tackling Complexity in the Heart of Software.
+
+
 ## Business domain
 This the primary industry that your company/organization operates in.
 
