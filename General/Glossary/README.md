@@ -3,8 +3,10 @@
 ## Domain-Driven Design (DDD)
 [Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 
-[YouTube](https://www.youtube.com/watch?v=4rhzdZIDX_k)
+[YouTube](https://www.youtube.com/watch?v=xFl-QQZJFTA)
 
+[YouTube](https://www.youtube.com/watch?v=4rhzdZIDX_k)
+ 
 When you are trying to build complex software it is important that everyone is on the same page. 
 
 The software itself should represent the business and it should be clear from the code how the business functions. 
@@ -17,7 +19,7 @@ This is where Domain Driven Design (DDD) comes in, which was made popular by Eri
 This the primary industry that your company/organization operates in.
 
 
-## Project / Bounded Context
+## Project / Sub-domain / Bounded Context
 [Bounded context - Martin Fowler](https://martinfowler.com/bliki/BoundedContext.html)
 
 
