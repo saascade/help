@@ -3,10 +3,10 @@
 ## Domain-Driven Design (DDD)
 [Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 
-[YouTube](https://www.youtube.com/watch?v=xFl-QQZJFTA)
+[DDD Building Blocks - video](https://www.youtube.com/watch?v=xFl-QQZJFTA)
 
-[YouTube](https://www.youtube.com/watch?v=4rhzdZIDX_k)
-
+[Domain Driven Design: What You Need To Know - video](https://www.youtube.com/watch?v=4rhzdZIDX_k)
+ 
 
 To oversimplify things, Domain-Driven Design is the recommended approach for creating Enterprise-grade software applications.
 This is because it allows the structure and lanaguage in the code to match what is actually used in the business - making it much easier to reason about complex (or even simple) software systems. It's about creating a language that is shared between domain/business experts and technical experts. We then use that shared language to model the business in a user-friendly, but technically complete way - reducing a lot of the risk, while also speeding up the software development.
@@ -31,7 +31,7 @@ This the primary industry that your company/organization operates in.
 ## Project / Sub-domain / Bounded Context
 [Bounded context - Martin Fowler](https://martinfowler.com/bliki/BoundedContext.html)
 
-[YouTube](https://www.youtube.com/watch?v=NvBsEnDgA4o)
+[DDD Bounded Contexts & Subdomains - video](https://www.youtube.com/watch?v=NvBsEnDgA4o)
 
 A part of the software where particualr terms, rules and definitions apply consistantly.
 
@@ -52,6 +52,13 @@ So for example if you we're modelling a Bank, some of the Aggregate roots would 
 
 ## Environment
 ...
+
+## Commands / Action & Events
+[Events vs Commands: What's the difference? - video](https://www.youtube.com/watch?v=vS7sCJ1uezY)
+
+## Event sourcing
+[Event Sourcing Explained - video](https://www.youtube.com/watch?v=yFjzGRb8NOk)
+
 
 ## Pull request
 Is an amendment or addition you want to make in a document.
