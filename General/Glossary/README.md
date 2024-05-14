@@ -36,6 +36,13 @@ This the primary industry that your company/organization operates in.
 A part of the software where particualr terms, rules and definitions apply consistantly.
 
 
+## Actions / Commands / Events
+[Events vs Commands: What's the difference? - video](https://www.youtube.com/watch?v=vS7sCJ1uezY)
+
+## Event sourcing
+[Event Sourcing Explained - video](https://www.youtube.com/watch?v=yFjzGRb8NOk)
+
+
 ## Aggregate
 An Aggregate is by far the hardest thing to explain in Domain-Driven Design (DDD), with the following statement being the original/official definition:
 "An Aggregate is a cluster of associated objects that we treat as a unit for the purpose of data changes. 
@@ -61,12 +68,6 @@ A software development environment (SDE) is the collection of hardware and softw
 When you are developing software, you probably don’t want your users to see every messy part of your application creation process. In order to make sure you control what people see and when they have access to it, development teams use environments to create “stages” of the app which they consider good for releasing.
 
 Each environment has its own unique purpose. There are different standards of environments which are used in the industry, although almost every process starts at the ‘development’ (or shortened to just 'dev') stage and ends with ‘production’. Different organisations all have their own purposes and policies which dictate when and how each environment is used.
-
-## Commands / Action & Events
-[Events vs Commands: What's the difference? - video](https://www.youtube.com/watch?v=vS7sCJ1uezY)
-
-## Event sourcing
-[Event Sourcing Explained - video](https://www.youtube.com/watch?v=yFjzGRb8NOk)
 
 
 ## Pull request
