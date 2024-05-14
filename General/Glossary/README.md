@@ -39,6 +39,10 @@ A part of the software where particualr terms, rules and definitions apply consi
 ## Actions / Commands / Events
 [Events vs Commands: What's the difference? - video](https://www.youtube.com/watch?v=vS7sCJ1uezY)
 
+### Command/Action
+Represents decisions, actions or intent. They can be initiated by an actor or from an automated process. During process EventStorming usually, the word "Action" usually fits better with stakeholders than command because it is easier to grasp.
+
+
 ## Event sourcing
 [Event Sourcing Explained - video](https://www.youtube.com/watch?v=yFjzGRb8NOk)
 
