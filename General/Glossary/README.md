@@ -17,7 +17,7 @@ The root is a single, specific Entity contained in the Aggregate." - Eric Eveans
 In basic terms an agggregate is a unit of consistency and concurrency that carries some kind of identity.
 When you define an Aggreagte using our workflow designer, you are actually defining the root of the Aggregate.
 To keep things simple you can kind of think of it in the same way as an Entity, in that it has it's own identity and associated data - and we'll take care of the rest for you.
-So for example if you we're modelling a Bank, some of the Aggregate roots would be things like 'Customer' or 'Bank Account'.
+So for example if you we're modelling a Bank, some of the Aggregate roots would be things like 'Customer' or 'Bank Account', with each instance of those having it's own identity and data. In this case a Customer would perhaps have an Address, but we can decide to model that as just a property of a Customer instead of a completely seperate Aggregate, because it doesn't really have any reason to change outside of the context of a specific customer.
 
 ## Environment
 ...
