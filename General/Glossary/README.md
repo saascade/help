@@ -31,6 +31,7 @@ This the primary industry that your company/organization operates in.
 ## Project / Sub-domain / Bounded Context
 [Bounded context - Martin Fowler](https://martinfowler.com/bliki/BoundedContext.html)
 
+[YouTube](https://www.youtube.com/watch?v=NvBsEnDgA4o)
 
 ## Aggregate
 An Aggregate is by far the hardest thing to explain in Domain-Driven Design (DDD), with the following statement being the original/official definition:
