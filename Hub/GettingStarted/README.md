@@ -4,8 +4,8 @@
 
 - [Tutorials](../Tutorials/README.md)
 - [Examples](../Examples/README.md)
-- [Faq](../General/FAQ/README.md)
-- [Glossary](../General/Glossary/README.md)
+- [FAQ](../FAQ/README.md)
+- [Glossary](../Glossary/README.md)
 
 ---
 [Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/General/GettingStarted/README.md)
