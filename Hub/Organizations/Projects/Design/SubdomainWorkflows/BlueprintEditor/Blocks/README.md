@@ -1,4 +1,4 @@
-# Building blocks
+# Blueprint building blocks
 
 ## Group blocks
 - [Aggregate (Entity Group)](Aggregate/README.md)
@@ -31,6 +31,6 @@
 - [Thought bubble](ThoughtBubble/README.md)
 
 ---
-[Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/Hub/Organizations/Projects/Design/SubdomainWorkflows/BlueprintEditor/README.md)
+[Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/Hub/Organizations/Projects/Design/SubdomainWorkflows/BlueprintEditor/Blocks/README.md)
 
 [How to contribute to the docs](../../../../../General/HowToContribute/README.md)
