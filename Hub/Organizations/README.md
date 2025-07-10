@@ -1,4 +1,4 @@
-# Examples
+# Organizations
 
 ---
 [Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/Hub/Organizations/README.md)

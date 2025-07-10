@@ -1,7 +1,7 @@
 # Help
-- [General](General/README.md)
 - [Software development hub](Hub/README.md)
-- [API Directory](Apis/README.md)
+- [API Directory](ApiDirectory/README.md)
+- [General](General/README.md)
 - [How to contribute to the docs](General/HowToContribute/README.md)
 
 ---

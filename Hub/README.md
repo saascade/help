@@ -1,8 +1,12 @@
 # Software development hub
+
+- [Getting started](GettingStarted/README.md)
+- [Organizations](Organizations/README.md)
+- [Projects](Organizations/Projects/README.md)
+- [Glossary](Glossary/README.md)
+- [FAQ](FAQ/README.md)
 - [Tutorials](Tutorials/README.md)
 - [Examples](Examples/README.md)
-- [Learn to code - you only need to know the basics](LearnToCode/README.md)
-- [External resources](ExternalResources/README.md)
 
 ---
 [Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/Hub/README.md)
