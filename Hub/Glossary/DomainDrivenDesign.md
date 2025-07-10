@@ -19,3 +19,8 @@ This is where Domain Driven Design (DDD) comes in, which was made popular by Eri
 
 
 The SaaScade platform takes things further by providing tools to easily do the modelling, generate the code and manage the resulting software systems - effectively eliminating or reducing a lot of the risk and complexity of trying to do this manually.
+
+---
+[Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/Hub/Glossary/DomainDrivenDesign.md)
+
+[How to contribute to the docs](../../General/HowToContribute/README.md)

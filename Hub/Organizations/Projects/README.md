@@ -1,5 +1,8 @@
 # Projects
 
+- [Vision](Vision/README.md) 
+- [Design](Design/README.md)
+
 ---
 [Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/Hub/Organizations/Projects/README.md)
 
