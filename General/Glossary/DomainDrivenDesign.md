@@ -19,3 +19,8 @@ This is where Domain Driven Design (DDD) comes in, which was made popular by Eri
 
 
 The SAAScade platform takes things further by providing tools to easily do the modelling, generate the code and manage the resulting software systems - effectively eliminating or reducing a lot of the risk and complexity of trying to do this manually.
+
+
+
+<!-- MS Clarity. We use this so that we know what people need help with, otherwise we'd be wasting a lot of time just guessing. --> 
+<script type="text/javascript"> (function(c,l,a,r,i,t,y){ c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)}; t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;  y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y); })(window, document, "clarity", "script", "sdby7q18rz"); </script>
