@@ -1,2 +1,2 @@
 # How to contribute to the docs
-- [The details](General/HowToContribute/README.md) 
+- [The details](General/HowToContribute/README.md)
