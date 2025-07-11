@@ -1,11 +1,11 @@
 # Blueprint editor
 
+## Building blocks
+- [Blocks](Blocks/README.md) 
+ 
 ## Wizards
 - [Wizard](Wizard/README.md) 
 - [Ai Generator](AiGenerator/README.md) 
-
-## Building blocks
-- [Blocks](Blocks/README.md) 
 
 ## Actions
 - [Commit](Commit/README.md)  
