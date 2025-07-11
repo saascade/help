@@ -1,10 +1,13 @@
 # Blueprint editor
 
+## Wizards
 - [Wizard](Wizard/README.md) 
 - [Ai Generator](AiGenerator/README.md) 
 
+## Blocks
 - [Blocks](Blocks/README.md) 
 
+## Actions
 - [Commit](Commit/README.md)  
 - [Zoom in and out](Zoom/README.md) 
 - [Undo / Redo](UndoRedo/README.md) 
