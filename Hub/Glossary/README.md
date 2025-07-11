@@ -63,3 +63,13 @@ Is an amendment or addition you want to make in a document.
 [Edit this page](https://github.com/saascade/platform.saascade.com/edit/main/Hub/Glossary/README.md)
 
 [How to contribute to the docs](../../General/HowToContribute/README.md)
+
+
+<!-- MS Clarity analytics. We use this so that we know what people need help with, otherwise we'd just be guessing --> 
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "sdby7q18rz");
+</script>
