@@ -4,7 +4,7 @@
 - [Wizard](Wizard/README.md) 
 - [Ai Generator](AiGenerator/README.md) 
 
-## Blocks
+## Building blocks
 - [Blocks](Blocks/README.md) 
 
 ## Actions
