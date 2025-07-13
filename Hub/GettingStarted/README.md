@@ -1,6 +1,7 @@
 # Getting started
 [![How to model a software system using the SAAScade blueprint editor](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZKXzVjvZUyI%26t%3D917s)](https://www.youtube.com/watch?v=ZKXzVjvZUyI&t=917s)
-https://www.youtube.com/watch?v=ZKXzVjvZUyI&t=917s
+
+
 
 - [Tutorials](../Tutorials/README.md)
 - [Examples](../Examples/README.md)
