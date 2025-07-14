@@ -1,5 +1,5 @@
 # Blueprint building blocks
-
+[![DDD Building Blocks](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxFl-QQZJFTA%26list%3DPLOyG8qZUD3LOKsnI5kejOW9xcsc7M2cdW)](https://www.youtube.com/watch?v=xFl-QQZJFTA&list=PLOyG8qZUD3LOKsnI5kejOW9xcsc7M2cdW)
  
 - [Agent](Agent/README.md) 
 - [Aggregate (Entity Group)](Aggregate/README.md)
